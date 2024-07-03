@@ -1067,7 +1067,7 @@
 
 | API                                                                                 | 설명                                                                | 인증     | HTTPS | CORS |
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -------- | ----- | ---- |
-| [네이버 검색](https://developers.naver.com/products/search/)                        | 네이버 블로그, 이미지, 웹, 뉴스, 백과사전, 책, 카페, 지식iN 등 검색 | `apiKey` | ?     | ?    |
+| [네이버 검색](https://developers.naver.com/products/service-api/search/search.md)    | 네이버 블로그, 이미지, 웹, 뉴스, 백과사전, 책, 카페, 지식iN 등 검색 | `apiKey` | ?     | ?    |
 | [네이버 지도(웹, 모바일)](https://www.ncloud.com/product/applicationService/maps)   | 네이버 지도 표시 및 주소 좌표 변환                                  | `apiKey` | ?     | ?    |
 | [네이버 아이디로 로그인](https://developers.naver.com/products/login/api/)          | 외부 사이트에서 네이버 아이디로 로그인 기능 구현 및 프로필 조회     | `apiKey` | ?     | ?    |
 | [네이버 파파고 번역](https://developers.naver.com/products/nmt/)                    | Papago 번역 인공신경망 기반 기계 번역                               | `apiKey` | ?     | ?    |
